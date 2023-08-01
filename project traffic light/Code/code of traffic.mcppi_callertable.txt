@@ -1,0 +1,14 @@
+main
+	__CC2DW
+		____DoICP
+	operation
+		one
+			checkandint
+				actint
+					intone
+					intsec
+		second
+			checkandint
+				actint
+					intone
+					intsec
